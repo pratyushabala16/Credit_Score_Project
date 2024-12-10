@@ -5,4 +5,4 @@ Our task is , given a person’s credit-related information, we have to build a 
 
 * I performed Exploratory Data Analysis to extract the key insights on how different parameters are related to the different credit score brackets of the customers.
 * Then, I applied classification models like Decision Tree, Random Forest and XGBoost to predict the credit score classes.
-* Lastly I compared their predicition accuracy and make some inferences.
+* Lastly I compared their predicition accuracy and made some inferences.
